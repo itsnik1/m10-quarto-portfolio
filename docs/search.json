@@ -172,6 +172,6 @@
     "href": "projects/publishing-checklist.html#publishing",
     "title": "Website Design Notes",
     "section": "Publishing",
-    "text": "Publishing\nQuarto renders the website to _site. The source files can be stored on GitHub and the rendered website can be published with quarto publish gh-pages."
+    "text": "Publishing\nQuarto renders the website to the docs folder. The source and rendered files are stored on GitHub, and GitHub Pages serves the website from the main branch’s /docs folder."
   }
 ]
