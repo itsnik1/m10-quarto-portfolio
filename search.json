@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "submission.html",
+    "href": "submission.html",
+    "title": "M10 Quarto Portfolio Submission",
+    "section": "",
+    "text": "Student: Nikolas Sahami"
+  },
+  {
+    "objectID": "submission.html#submission-links",
+    "href": "submission.html#submission-links",
+    "title": "M10 Quarto Portfolio Submission",
+    "section": "Submission links",
+    "text": "Submission links\n\nPublished Quarto portfolio\nGitHub repository"
+  },
+  {
+    "objectID": "submission.html#website-contents",
+    "href": "submission.html#website-contents",
+    "title": "M10 Quarto Portfolio Submission",
+    "section": "Website contents",
+    "text": "Website contents\nThe website includes the four required pages:\n\nHome page with my bio, photo, career interests, skills, and education\nQuarto dashboard portal for my MSDM culminating experience project\nCSS/SCSS explanation and demonstration\nQuarto listings explanation and portfolio showcase"
+  },
+  {
+    "objectID": "projects/dashboard-design-notes.html",
+    "href": "projects/dashboard-design-notes.html",
+    "title": "CEP Dashboard Plan",
+    "section": "",
+    "text": "The dashboard should help a stakeholder understand the main patterns without needing to read a long report."
+  },
+  {
+    "objectID": "projects/dashboard-design-notes.html#dashboard-goal",
+    "href": "projects/dashboard-design-notes.html#dashboard-goal",
+    "title": "CEP Dashboard Plan",
+    "section": "",
+    "text": "The dashboard should help a stakeholder understand the main patterns without needing to read a long report."
+  },
+  {
+    "objectID": "projects/dashboard-design-notes.html#planned-content",
+    "href": "projects/dashboard-design-notes.html#planned-content",
+    "title": "CEP Dashboard Plan",
+    "section": "Planned content",
+    "text": "Planned content\n\nA small number of clearly defined summary measures\nA trend chart for changes over time\nApproved group comparisons\nNotes explaining limitations and definitions\n\nThe final design will only include validated data and will separate observed relationships from causal conclusions."
+  },
+  {
+    "objectID": "listings.html",
+    "href": "listings.html",
+    "title": "Quarto Listings",
+    "section": "",
+    "text": "A Quarto listing creates a collection from the metadata in other .qmd files. For a portfolio, this means I can add a new project file and Quarto will automatically add it to the page with the same card layout, sorting, filtering, and categories."
+  },
+  {
+    "objectID": "listings.html#what-is-a-listing",
+    "href": "listings.html#what-is-a-listing",
+    "title": "Quarto Listings",
+    "section": "",
+    "text": "A Quarto listing creates a collection from the metadata in other .qmd files. For a portfolio, this means I can add a new project file and Quarto will automatically add it to the page with the same card layout, sorting, filtering, and categories."
+  },
+  {
+    "objectID": "listings.html#how-this-page-works",
+    "href": "listings.html#how-this-page-works",
+    "title": "Quarto Listings",
+    "section": "How this page works",
+    "text": "How this page works\nlisting:\n  contents: \"projects/*.qmd\"\n  type: grid\n  sort: \"date desc\"\n  filter-ui: true\n  categories: true\nThe cards below are generated from the three files in the projects folder."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nikolas Sahami",
+    "section": "",
+    "text": "MSDM PORTFOLIO\n\n\n\n\n\nI am an MSDM student at Cal Poly Pomona. My culminating experience project focuses on student engagement at Collins College and how engagement may relate to enrollment and retention.\nView my CEP dashboard View portfolio items"
+  },
+  {
+    "objectID": "index.html#data-digital-marketing-and-student-success.",
+    "href": "index.html#data-digital-marketing-and-student-success.",
+    "title": "Nikolas Sahami",
+    "section": "",
+    "text": "I am an MSDM student at Cal Poly Pomona. My culminating experience project focuses on student engagement at Collins College and how engagement may relate to enrollment and retention.\nView my CEP dashboard View portfolio items"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Nikolas Sahami",
+    "section": "About me",
+    "text": "About me\nI enjoy using data to answer practical questions and explain results clearly. After graduate school, I want to work in a role where I can combine marketing and my creative personality to help an organization make better decisions and better develop a brand and identity."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Nikolas Sahami",
+    "section": "Skills",
+    "text": "Skills\n\n\nData analysis\nOrganizing data and using it to answer business questions.\n\n\nData visualization\nTurning results into clear charts and dashboards.\n\n\nDigital marketing\nConnecting customer behavior, strategy, and measurement.\n\n\nRStudio & Quarto\nCreating reproducible reports, dashboards, and websites."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nikolas Sahami",
+    "section": "Education",
+    "text": "Education\n\n\nMSDM\n\n\nMaster of Science in Digital Marketing\nCal Poly Pomona · 2026–2027\nCurrent project: Collins College student engagement and enrollment-retention."
+  },
+  {
+    "objectID": "styling.html",
+    "href": "styling.html",
+    "title": "Using CSS & SCSS with Quarto",
+    "section": "",
+    "text": "Quarto websites use Bootstrap as a starting point. I used SCSS for site-wide choices such as colors and fonts, and CSS for specific page elements such as the home-page layout and skill cards."
+  },
+  {
+    "objectID": "styling.html#scss-site-wide-styling",
+    "href": "styling.html#scss-site-wide-styling",
+    "title": "Using CSS & SCSS with Quarto",
+    "section": "SCSS: site-wide styling",
+    "text": "SCSS: site-wide styling\nIn _quarto.yml, I combined the built-in flatly theme with my own theme.scss file:\nformat:\n  html:\n    theme: [flatly, theme.scss]\n    css: styles.css\nThe SCSS variables change the design across the whole website:\n/*-- scss:defaults --*/\n$primary: #0b6e75;\n$body-bg: #f6f4ef;\n$body-color: #243443;\n$headings-color: #102a43;\n$navbar-bg: #102a43;\nChanging one variable can update buttons, links, headings, and other Bootstrap components at the same time."
+  },
+  {
+    "objectID": "styling.html#css-component-styling",
+    "href": "styling.html#css-component-styling",
+    "title": "Using CSS & SCSS with Quarto",
+    "section": "CSS: component styling",
+    "text": "CSS: component styling\nI used regular CSS when I wanted to style one type of element. The two cards below use the same reusable class.\n\n\nConsistent design\nShared spacing, borders, and typography make the cards feel related.\n\n\nResponsive layout\nThe cards sit side by side on a larger screen and stack on a phone.\n\n\n.demo-grid {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  gap: 1rem;\n}\n\n.demo-card {\n  padding: 1.25rem;\n  background: white;\n  border-radius: 0.75rem;\n}"
+  },
+  {
+    "objectID": "styling.html#what-i-learned",
+    "href": "styling.html#what-i-learned",
+    "title": "Using CSS & SCSS with Quarto",
+    "section": "What I learned",
+    "text": "What I learned\n\nUse SCSS for repeated design decisions across the website.\nUse CSS for custom layouts and individual components.\nTest the site on different screen sizes.\nKeep text readable and provide alternative text for images.\n\nQuarto HTML theming documentation"
+  },
+  {
+    "objectID": "projects/cep-research-brief.html",
+    "href": "projects/cep-research-brief.html",
+    "title": "CEP Project Overview",
+    "section": "",
+    "text": "My culminating experience project focuses on student engagement at Collins College and how it may relate to enrollment and retention."
+  },
+  {
+    "objectID": "projects/cep-research-brief.html#purpose",
+    "href": "projects/cep-research-brief.html#purpose",
+    "title": "CEP Project Overview",
+    "section": "",
+    "text": "My culminating experience project focuses on student engagement at Collins College and how it may relate to enrollment and retention."
+  },
+  {
+    "objectID": "projects/cep-research-brief.html#main-questions",
+    "href": "projects/cep-research-brief.html#main-questions",
+    "title": "CEP Project Overview",
+    "section": "Main questions",
+    "text": "Main questions\n\nWhat engagement information is available?\nHow should enrollment and retention be defined?\nWhat patterns would be useful to Collins College stakeholders?\n\nThe project is still in the planning and data-preparation stage, so this portfolio does not report final results."
+  },
+  {
+    "objectID": "projects/publishing-checklist.html",
+    "href": "projects/publishing-checklist.html",
+    "title": "Website Design Notes",
+    "section": "",
+    "text": "I used a navy and teal color palette, a consistent card style, and responsive layouts that work on both desktop and mobile screens."
+  },
+  {
+    "objectID": "projects/publishing-checklist.html#design-choices",
+    "href": "projects/publishing-checklist.html#design-choices",
+    "title": "Website Design Notes",
+    "section": "",
+    "text": "I used a navy and teal color palette, a consistent card style, and responsive layouts that work on both desktop and mobile screens."
+  },
+  {
+    "objectID": "projects/publishing-checklist.html#organization",
+    "href": "projects/publishing-checklist.html#organization",
+    "title": "Website Design Notes",
+    "section": "Organization",
+    "text": "Organization\nThe navigation connects the four required pages. The listing page is generated from the files in the projects folder, so it can grow without rebuilding the layout by hand."
+  },
+  {
+    "objectID": "projects/publishing-checklist.html#publishing",
+    "href": "projects/publishing-checklist.html#publishing",
+    "title": "Website Design Notes",
+    "section": "Publishing",
+    "text": "Publishing\nQuarto renders the website to _site. The source files can be stored on GitHub and the rendered website can be published with quarto publish gh-pages."
+  }
+]

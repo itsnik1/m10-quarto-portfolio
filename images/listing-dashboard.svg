@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="t d">
+  <title id="t">Dashboard wireframe</title>
+  <desc id="d">Abstract dashboard with summary cards and a chart frame.</desc>
+  <rect width="1200" height="630" fill="#e8f1f0"/>
+  <rect x="75" y="65" width="1050" height="500" rx="28" fill="#fff" stroke="#b9cfce" stroke-width="4"/>
+  <rect x="75" y="65" width="1050" height="75" rx="28" fill="#102a43"/>
+  <circle cx="125" cy="103" r="12" fill="#d7923b"/>
+  <rect x="120" y="180" width="280" height="120" rx="18" fill="#0b6e75"/>
+  <rect x="460" y="180" width="280" height="120" rx="18" fill="#173f5f"/>
+  <rect x="800" y="180" width="280" height="120" rx="18" fill="#d7923b"/>
+  <rect x="120" y="345" width="620" height="165" rx="18" fill="#f6f4ef" stroke="#d9e2e8" stroke-width="3"/>
+  <path d="M170 465l120-62 110 34 110-72 165 46" fill="none" stroke="#0b6e75" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="800" y="345" width="280" height="165" rx="18" fill="#f6f4ef" stroke="#d9e2e8" stroke-width="3"/>
+  <rect x="850" y="392" width="180" height="18" rx="9" fill="#b9cfce"/>
+  <rect x="850" y="432" width="130" height="18" rx="9" fill="#b9cfce"/>
+  <rect x="850" y="472" width="155" height="18" rx="9" fill="#b9cfce"/>
+</svg>
+
