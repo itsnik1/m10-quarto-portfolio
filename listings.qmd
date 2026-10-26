@@ -8,8 +8,7 @@ listing:
   sort-ui: [date, title]
   filter-ui: true
   categories: true
-  fields: [image, title, description, date, categories]
-  image-height: 180px
+  fields: [title, description, date, categories]
 toc: true
 ---
 
