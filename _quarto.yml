@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   render:
     - index.qmd
     - dashboard.qmd
@@ -39,4 +39,3 @@ format:
 
 execute:
   freeze: auto
-
