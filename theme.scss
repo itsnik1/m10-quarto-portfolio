@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+$primary: #0b6e75;
+$secondary: #526576;
+$body-bg: #f6f4ef;
+$body-color: #243443;
+$headings-color: #102a43;
+$link-color: #096b72;
+$navbar-bg: #102a43;
+$navbar-fg: #ffffff;
+$navbar-hl: #8ed7d7;
+$footer-bg: #102a43;
+$footer-fg: #ffffff;
+$font-family-sans-serif: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$headings-font-weight: 700;
+$line-height-base: 1.6;
+$border-radius: 0.5rem;
+$border-radius-lg: 0.75rem;
+$code-block-bg: #edf2f4;
+$code-block-border-left: #0b6e75;
+$code-block-border-left-size: 3px;
+
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  letter-spacing: -0.025em;
+}
+
+.navbar-brand,
+.btn {
+  font-weight: 700;
+}
+
+.navbar {
+  box-shadow: 0 4px 18px rgba(16, 42, 67, 0.12);
+}
+
+a {
+  text-underline-offset: 0.15em;
+}
+

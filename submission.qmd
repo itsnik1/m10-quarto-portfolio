@@ -1,0 +1,28 @@
+---
+title: "M10 Quarto Portfolio Submission"
+date: today
+format:
+  html:
+    theme: [flatly, theme.scss]
+    css: styles.css
+    toc: true
+    embed-resources: true
+    link-external-newwindow: true
+---
+
+**Student:** {{< var profile_name >}}
+
+## Submission links
+
+- [Published Quarto portfolio]({{< var site_url >}})
+- [GitHub repository]({{< var repo_url >}})
+
+## Website contents
+
+The website includes the four required pages:
+
+1. Home page with my bio, photo, career interests, skills, and education
+2. Quarto dashboard portal for my MSDM culminating experience project
+3. CSS/SCSS explanation and demonstration
+4. Quarto listings explanation and portfolio showcase
+

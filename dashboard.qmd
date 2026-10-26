@@ -1,0 +1,58 @@
+---
+title: "CEP Dashboard"
+author: "Nikolas Sahami"
+format:
+  dashboard:
+    theme: [flatly, theme.scss]
+    css: styles.css
+    scrolling: true
+---
+
+This page shows the plan for my MSDM culminating experience project. I have not added sample results because the final project data has not been approved for this site.
+
+## Project summary {.flow}
+
+::: {.valuebox color="#0b6e75"}
+Project focus
+
+**Student engagement**
+:::
+
+::: {.valuebox color="#173f5f"}
+Outcome of interest
+
+**Enrollment & retention**
+:::
+
+::: {.valuebox color="#8a4b1b"}
+Current stage
+
+**Planning**
+:::
+
+## Project details {.flow}
+
+::: {.card title="Project overview"}
+The goal is to understand patterns in student engagement at Collins College and explore how those patterns may relate to enrollment and retention. The final dashboard will summarize the results for college stakeholders in a clear and useful format.
+:::
+
+::: {.card title="Questions the dashboard should answer"}
+- What forms of student engagement are available in the data?
+- How should enrollment and retention be measured?
+- Do engagement patterns differ across time or approved student groups?
+- What follow-up questions should stakeholders consider?
+:::
+
+## Planned views {.flow}
+
+::: {.card title="Dashboard components"}
+| Component | Purpose |
+|---|---|
+| Summary measures | Show the main engagement and enrollment indicators |
+| Trend chart | Compare patterns over time |
+| Group comparison | Explore approved student segments |
+| Notes | Explain definitions and limitations |
+
+The final version will use validated, appropriately de-identified data and will avoid making causal claims from simple associations.
+:::
+

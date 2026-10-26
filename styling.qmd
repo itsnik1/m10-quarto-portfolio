@@ -1,0 +1,73 @@
+---
+title: "Using CSS & SCSS with Quarto"
+subtitle: "How I customized this website"
+toc: true
+---
+
+Quarto websites use Bootstrap as a starting point. I used **SCSS** for site-wide choices such as colors and fonts, and **CSS** for specific page elements such as the home-page layout and skill cards.
+
+## SCSS: site-wide styling
+
+In `_quarto.yml`, I combined the built-in `flatly` theme with my own `theme.scss` file:
+
+```yaml
+format:
+  html:
+    theme: [flatly, theme.scss]
+    css: styles.css
+```
+
+The SCSS variables change the design across the whole website:
+
+```scss
+/*-- scss:defaults --*/
+$primary: #0b6e75;
+$body-bg: #f6f4ef;
+$body-color: #243443;
+$headings-color: #102a43;
+$navbar-bg: #102a43;
+```
+
+Changing one variable can update buttons, links, headings, and other Bootstrap components at the same time.
+
+## CSS: component styling
+
+I used regular CSS when I wanted to style one type of element. The two cards below use the same reusable class.
+
+::: {.demo-grid}
+::: {.demo-card .demo-card--teal}
+### Consistent design
+
+Shared spacing, borders, and typography make the cards feel related.
+:::
+
+::: {.demo-card .demo-card--amber}
+### Responsive layout
+
+The cards sit side by side on a larger screen and stack on a phone.
+:::
+:::
+
+```css
+.demo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.demo-card {
+  padding: 1.25rem;
+  background: white;
+  border-radius: 0.75rem;
+}
+```
+
+## What I learned
+
+- Use SCSS for repeated design decisions across the website.
+- Use CSS for custom layouts and individual components.
+- Test the site on different screen sizes.
+- Keep text readable and provide alternative text for images.
+
+[Quarto HTML theming documentation](https://quarto.org/docs/output-formats/html-themes.html)
+

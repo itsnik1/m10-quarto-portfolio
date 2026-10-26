@@ -1,0 +1,71 @@
+---
+pagetitle: "Home"
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-copy}
+<p class="eyebrow">MSDM PORTFOLIO</p>
+
+# {{< var profile_name >}}
+
+## Data, digital marketing, and student success.
+
+I am an MSDM student at Cal Poly Pomona. My culminating experience project focuses on student engagement at Collins College and how engagement may relate to enrollment and retention.
+
+[View my CEP dashboard](dashboard.qmd){.btn .btn-primary} [View portfolio items](listings.qmd){.btn .btn-outline-secondary}
+:::
+
+::: {.hero-portrait}
+<img src="images/profile.jpeg" alt="Portrait of Nikolas Sahami" class="profile-photo">
+:::
+:::
+
+## About me
+
+I enjoy using data to answer practical questions and explain results clearly. After graduate school, I want to work in a role where I can combine marketing and my creative personality to help an organization make better decisions and better develop a brand and identity.
+
+## Skills
+
+::: {.skill-grid}
+::: {.skill-card}
+### Data analysis
+
+Organizing data and using it to answer business questions.
+:::
+
+::: {.skill-card}
+### Data visualization
+
+Turning results into clear charts and dashboards.
+:::
+
+::: {.skill-card}
+### Digital marketing
+
+Connecting customer behavior, strategy, and measurement.
+:::
+
+::: {.skill-card}
+### RStudio & Quarto
+
+Creating reproducible reports, dashboards, and websites.
+:::
+:::
+
+## Education
+
+::: {.education-card}
+::: {.education-mark}
+**MSDM**
+:::
+
+::: {.education-copy}
+### Master of Science in Digital Marketing
+
+Cal Poly Pomona · 2026–2027
+
+**Current project:** Collins College student engagement and enrollment-retention.
+:::
+:::

@@ -1,0 +1,23 @@
+---
+title: "CEP Dashboard Plan"
+description: "The information and design choices planned for my Quarto dashboard."
+date: 2026-10-25
+categories: [Dashboard, Quarto]
+image: ../images/listing-dashboard.svg
+image-alt: "An example dashboard layout with summary cards and a chart"
+toc: true
+---
+
+## Dashboard goal
+
+The dashboard should help a stakeholder understand the main patterns without needing to read a long report.
+
+## Planned content
+
+1. A small number of clearly defined summary measures
+2. A trend chart for changes over time
+3. Approved group comparisons
+4. Notes explaining limitations and definitions
+
+The final design will only include validated data and will separate observed relationships from causal conclusions.
+

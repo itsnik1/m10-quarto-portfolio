@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - dashboard.qmd
+    - styling.qmd
+    - listings.qmd
+    - projects/*.qmd
+    - submission.qmd
+
+website:
+  title: "Nikolas Sahami | MSDM Portfolio"
+  description: "M10 Quarto portfolio and MSDM culminating experience project."
+  search: true
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CEP Dashboard"
+        href: dashboard.qmd
+      - text: "CSS & SCSS"
+        href: styling.qmd
+      - text: "Listings"
+        href: listings.qmd
+  page-footer:
+    left: "Nikolas Sahami · MSDM"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: [flatly, theme.scss]
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
+

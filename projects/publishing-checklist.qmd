@@ -1,0 +1,22 @@
+---
+title: "Website Design Notes"
+description: "A short summary of how I styled and organized this Quarto portfolio."
+date: 2026-10-25
+categories: [CSS, SCSS, Publishing]
+image: ../images/listing-style.svg
+image-alt: "A code window with colors and a publishing arrow"
+toc: true
+---
+
+## Design choices
+
+I used a navy and teal color palette, a consistent card style, and responsive layouts that work on both desktop and mobile screens.
+
+## Organization
+
+The navigation connects the four required pages. The listing page is generated from the files in the `projects` folder, so it can grow without rebuilding the layout by hand.
+
+## Publishing
+
+Quarto renders the website to `_site`. The source files can be stored on GitHub and the rendered website can be published with `quarto publish gh-pages`.
+

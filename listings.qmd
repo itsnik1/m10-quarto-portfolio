@@ -1,0 +1,32 @@
+---
+title: "Quarto Listings"
+subtitle: "Organizing portfolio content automatically"
+listing:
+  contents: "projects/*.qmd"
+  type: grid
+  sort: "date desc"
+  sort-ui: [date, title]
+  filter-ui: true
+  categories: true
+  fields: [image, title, description, date, categories]
+  image-height: 180px
+toc: true
+---
+
+## What is a listing?
+
+A Quarto listing creates a collection from the metadata in other `.qmd` files. For a portfolio, this means I can add a new project file and Quarto will automatically add it to the page with the same card layout, sorting, filtering, and categories.
+
+## How this page works
+
+```yaml
+listing:
+  contents: "projects/*.qmd"
+  type: grid
+  sort: "date desc"
+  filter-ui: true
+  categories: true
+```
+
+The cards below are generated from the three files in the `projects` folder.
+

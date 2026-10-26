@@ -1,0 +1,22 @@
+---
+title: "CEP Project Overview"
+description: "The purpose and main questions behind my Collins College student engagement project."
+date: 2026-10-25
+categories: [CEP, Student Engagement]
+image: ../images/listing-cep.svg
+image-alt: "A pathway graphic representing student engagement and enrollment"
+toc: true
+---
+
+## Purpose
+
+My culminating experience project focuses on student engagement at Collins College and how it may relate to enrollment and retention.
+
+## Main questions
+
+- What engagement information is available?
+- How should enrollment and retention be defined?
+- What patterns would be useful to Collins College stakeholders?
+
+The project is still in the planning and data-preparation stage, so this portfolio does not report final results.
+
