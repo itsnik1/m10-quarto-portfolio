@@ -31,8 +31,8 @@ The portfolio includes the required content:
 ### [Personal Portfolio Brand Strategy](projects/digital-marketing/portfolio-brand-strategy.qmd)
 
 - **Data and source:** My resume, coursework, portfolio content, and the requirements for this website.
-- **Managerial problem:** My marketing, creative, and analytics work needs to be organized in one place for job applications.
-- **Target audience:** Recruiters, hiring managers, and professional contacts.
+- **Managerial problem:** My marketing and analytics work needs to be organized in one place for job applications.
+- **Target audience:** Recruiters, hiring managers, professional contacts, etc.
 - **Research questions and objectives:** Decide which experiences to feature, how to organize the projects, and how to keep the tone and design consistent.
 - **Expected impact:** Make my background easier to understand and give visitors one place to review my work.
 - **Methods:** Content review, audience definition, basic SEO, and testing on different screen sizes.
