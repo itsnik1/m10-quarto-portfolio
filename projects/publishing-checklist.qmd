@@ -3,8 +3,6 @@ title: "Website Design Notes"
 description: "A short summary of how I styled and organized this Quarto portfolio."
 date: 2026-10-25
 categories: [CSS, SCSS, Publishing]
-image: ../images/listing-style.svg
-image-alt: "A code window with colors and a publishing arrow"
 toc: true
 ---
 
@@ -19,4 +17,3 @@ The navigation connects the four required pages. The listing page is generated f
 ## Publishing
 
 Quarto renders the website to the `docs` folder. The source and rendered files are stored on GitHub, and GitHub Pages serves the website from the `main` branch's `/docs` folder.
-

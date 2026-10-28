@@ -1,0 +1,37 @@
+---
+title: "Personal Portfolio Brand Strategy"
+description: "A plan for presenting my marketing, creative, and analytics skills through one consistent portfolio."
+date: 2026-10-27
+categories: [Brand Development, Content Strategy, Website]
+toc: true
+---
+
+## Project title
+
+Personal Portfolio Brand and Content Strategy
+
+## Data and source
+
+The project uses my résumé, coursework, portfolio content, and the requirements for this Quarto website.
+
+## Managerial problem
+
+My marketing, creative work, and graduate analytics coursework are spread across different roles and assignments. I need one place to organize them for job applications.
+
+## Target audience
+
+Recruiters, hiring managers, and professional contacts looking for an early-career digital marketing or marketing analytics candidate.
+
+## Research questions and objectives
+
+- Which experiences best communicate my current strengths?
+- How should projects be organized so visitors can find relevant work quickly?
+- How can the website maintain a consistent tone and visual identity?
+
+## Expected impact
+
+The portfolio should make my background easier to understand and give visitors one place to review my résumé and projects.
+
+## Planned methods
+
+Content review, audience definition, deciding how to present my background, basic SEO, and testing the website on different screen sizes.

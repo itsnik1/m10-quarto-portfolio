@@ -1,0 +1,39 @@
+---
+title: "Sirius Travel Content Strategy"
+description: "A proposed review of digital content and promotional messaging for specialized astronomical tours."
+date: 2026-10-27
+categories: [Content Strategy, Social Media, Promotional Design]
+toc: true
+---
+
+## Project title
+
+Sirius Travel Digital Content and Promotional Strategy
+
+## Data and source
+
+The project will use publicly available Sirius Travel website and social media content, along with examples of promotional materials I created.
+
+## Managerial problem
+
+It can be difficult to explain both the trip and the astronomical event clearly to prospective travelers.
+
+## Target audience
+
+Prospective travelers interested in astronomy, eclipse travel, and educational group experiences.
+
+## Research questions and objectives
+
+- Which content themes explain the tour experience most clearly?
+- How can messaging remain consistent across social media and promotional materials?
+- How are calls to action used to guide interested visitors toward more information?
+
+## Expected impact
+
+I expect the project to create a clearer and more consistent approach for presenting specialized tours.
+
+## Planned methods
+
+Content review, audience segmentation, brand and message review, channel planning, and a review of public engagement measures.
+
+The related [Revealjs analytics proposal](../../presentation.qmd) explains how public content and Google Trends data can be used to support future content decisions.

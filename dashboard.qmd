@@ -8,7 +8,7 @@ format:
     scrolling: true
 ---
 
-This page shows the plan for my MSDM culminating experience project. I have not added sample results because the final project data has not been approved for this site.
+This page shows the plan for my MSDM culminating experience project. I have not added results because the project is still in progress.
 
 ## Project summary {.flow}
 
@@ -39,7 +39,7 @@ The goal is to understand patterns in student engagement at Collins College and 
 ::: {.card title="Questions the dashboard should answer"}
 - What forms of student engagement are available in the data?
 - How should enrollment and retention be measured?
-- Do engagement patterns differ across time or approved student groups?
+- Do engagement patterns differ across time or available student groups?
 - What follow-up questions should stakeholders consider?
 :::
 
@@ -50,9 +50,8 @@ The goal is to understand patterns in student engagement at Collins College and 
 |---|---|
 | Summary measures | Show the main engagement and enrollment indicators |
 | Trend chart | Compare patterns over time |
-| Group comparison | Explore approved student segments |
+| Group comparison | Explore relevant student segments |
 | Notes | Explain definitions and limitations |
 
-The final version will use validated, appropriately de-identified data and will avoid making causal claims from simple associations.
+The final version will use validated, de-identified data and will avoid treating associations as proof of causation.
 :::
-

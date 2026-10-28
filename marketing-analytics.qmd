@@ -1,0 +1,19 @@
+---
+title: "Marketing Analytics Projects"
+subtitle: "Data-informed marketing questions and project plans"
+listing:
+  contents:
+    - projects/cep-research-brief.qmd
+    - projects/marketing-analytics/*.qmd
+    - presentation.qmd
+  type: default
+  sort: "title"
+  filter-ui: false
+  categories: true
+  fields: [title, description, categories]
+toc: true
+---
+
+These are my current marketing analytics proposals. Each page explains the question, data, audience, expected impact, and methods I plan to use.
+
+## Project proposals

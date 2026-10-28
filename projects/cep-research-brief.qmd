@@ -1,22 +1,40 @@
 ---
 title: "CEP Project Overview"
-description: "The purpose and main questions behind my Collins College student engagement project."
+description: "A proposed analysis of student engagement and its relationship to enrollment and retention."
 date: 2026-10-25
-categories: [CEP, Student Engagement]
-image: ../images/listing-cep.svg
-image-alt: "A pathway graphic representing student engagement and enrollment"
+categories: [Marketing Analytics, CEP, Student Engagement]
 toc: true
 ---
 
-## Purpose
+## Project title
 
-My culminating experience project focuses on student engagement at Collins College and how it may relate to enrollment and retention.
+Collins College Student Engagement, Enrollment, and Retention Analysis
 
-## Main questions
+## Data and source
+
+I plan to use de-identified Collins College data. I will not post student-level data or results that should not be public.
+
+## Managerial problem
+
+Collins College needs a clearer view of student engagement patterns and how they may relate to enrollment and retention.
+
+## Target audience
+
+Collins College administrators and the CEP team.
+
+## Research questions
 
 - What engagement information is available?
 - How should enrollment and retention be defined?
-- What patterns would be useful to Collins College stakeholders?
+- How do engagement patterns vary over time or across the student groups available for the project?
+- Which patterns would be useful for future student-support decisions?
 
-The project is still in the planning and data-preparation stage, so this portfolio does not report final results.
+## Expected impact
 
+I expect the project to give Collins College a clearer summary of engagement patterns and identify questions for additional study.
+
+## Planned methods
+
+Data cleaning, descriptive statistics, trend analysis, group comparisons, and clear data visualizations. Any final report will describe patterns carefully and will not treat an association as proof of causation.
+
+[View the CEP dashboard plan](../dashboard.qmd)

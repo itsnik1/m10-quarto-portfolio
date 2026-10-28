@@ -6,5 +6,20 @@
       "/projects/dashboard-design-notes.html",
       "/projects/publishing-checklist.html"
     ]
+  },
+  {
+    "listing": "/digital-marketing.html",
+    "items": [
+      "/projects/digital-marketing/portfolio-brand-strategy.html",
+      "/projects/digital-marketing/sirius-travel-content-strategy.html"
+    ]
+  },
+  {
+    "listing": "/marketing-analytics.html",
+    "items": [
+      "/projects/cep-research-brief.html",
+      "/projects/marketing-analytics/website-traffic-analytics.html",
+      "/presentation.html"
+    ]
   }
 ]

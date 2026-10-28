@@ -1,0 +1,106 @@
+/*-- scss:defaults --*/
+
+$body-bg: #f6f4ef;
+$body-color: #243443;
+$link-color: #0b6e75;
+$selection-bg: #8ed7d7;
+$presentation-heading-color: #102a43;
+$presentation-heading-font-weight: 700;
+$presentation-heading-letter-spacing: -0.025em;
+$presentation-heading-text-transform: none;
+$presentation-title-slide-text-align: left;
+$presentation-font-size-root: 36px;
+$presentation-line-height: 1.45;
+
+/*-- scss:rules --*/
+
+.reveal {
+  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides section:not(#title-slide) h2 {
+  border-bottom: 3px solid #0b6e75;
+  padding-bottom: 0.22em;
+}
+
+.reveal #title-slide {
+  color: #f6f4ef;
+}
+
+.reveal #title-slide h1 {
+  max-width: 15ch;
+  color: #f6f4ef;
+  font-size: 2.25em;
+  line-height: 1.05;
+}
+
+.reveal #title-slide .subtitle {
+  max-width: 30ch;
+  color: #8ed7d7;
+  font-weight: 600;
+}
+
+.reveal #title-slide .date {
+  color: #d9e2e8;
+}
+
+.reveal strong {
+  color: #0b6e75;
+}
+
+.reveal ul li::marker,
+.reveal ol li::marker {
+  color: #0b6e75;
+  font-weight: 700;
+}
+
+.reveal a {
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.14em;
+}
+
+.reveal .callout {
+  margin-top: 1em;
+  border-radius: 0.5rem;
+  background: #ffffff;
+  box-shadow: none;
+  font-size: 0.78em;
+}
+
+.reveal .callout.callout-style-simple,
+.reveal .callout-note.callout-style-simple {
+  border-left: 5px solid #0b6e75 !important;
+}
+
+.reveal .callout-important.callout-style-simple {
+  border-left-color: #d7923b !important;
+}
+
+.reveal .callout .callout-title-container {
+  color: #102a43;
+  font-weight: 700;
+}
+
+.reveal .slide-number {
+  border-radius: 0.35rem;
+  background: #102a43;
+  color: #ffffff;
+  padding: 0.2rem 0.45rem;
+}
+
+.reveal .progress {
+  color: #0b6e75;
+}
+
+.reveal .controls {
+  color: #0b6e75;
+}
+
+.reveal :focus-visible {
+  outline: 3px solid #d7923b;
+  outline-offset: 3px;
+}

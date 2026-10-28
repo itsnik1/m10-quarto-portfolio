@@ -4,3 +4,10 @@
 **/*.quarto_ipynb
 .Rhistory
 .Rproj.user/
+/resume/*.aux
+/resume/*.log
+/resume/*.out
+/resume/*.tex
+/resume/vitae-source.pdf
+/resume/awesome-cv.cls
+/resume/fonts/

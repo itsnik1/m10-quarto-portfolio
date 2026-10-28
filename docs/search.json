@@ -1,24 +1,150 @@
 [
   {
-    "objectID": "submission.html",
-    "href": "submission.html",
-    "title": "M10 Quarto Portfolio Submission",
+    "objectID": "submission_2.html",
+    "href": "submission_2.html",
+    "title": "Portfolio Website Project Proposal",
     "section": "",
     "text": "Student: Nikolas Sahami"
   },
   {
-    "objectID": "submission.html#submission-links",
-    "href": "submission.html#submission-links",
-    "title": "M10 Quarto Portfolio Submission",
+    "objectID": "submission_2.html#submission-links",
+    "href": "submission_2.html#submission-links",
+    "title": "Portfolio Website Project Proposal",
     "section": "Submission links",
     "text": "Submission links\n\nPublished Quarto portfolio\nGitHub repository"
   },
   {
-    "objectID": "submission.html#website-contents",
-    "href": "submission.html#website-contents",
-    "title": "M10 Quarto Portfolio Submission",
+    "objectID": "submission_2.html#website-contents",
+    "href": "submission_2.html#website-contents",
+    "title": "Portfolio Website Project Proposal",
     "section": "Website contents",
-    "text": "Website contents\nThe website includes the four required pages:\n\nHome page with my bio, photo, career interests, skills, and education\nQuarto dashboard portal for my MSDM culminating experience project\nCSS/SCSS explanation and demonstration\nQuarto listings explanation and portfolio showcase"
+    "text": "Website contents\nThe portfolio includes the required content:\n\nHome: introduction, personal statement, skills, education, and career direction\nDigital Marketing Projects: personal portfolio brand strategy and Sirius Travel content strategy proposals\nMarketing Analytics Projects: Collins College CEP, portfolio website traffic analysis, and a Revealjs presentation proposal\nResume: education, skills, experience, and a downloadable PDF"
+  },
+  {
+    "objectID": "submission_2.html#digital-marketing-project-proposals",
+    "href": "submission_2.html#digital-marketing-project-proposals",
+    "title": "Portfolio Website Project Proposal",
+    "section": "Digital marketing project proposals",
+    "text": "Digital marketing project proposals\n\nPersonal Portfolio Brand Strategy\n\nData and source: My resume, coursework, portfolio content, and the requirements for this website.\nManagerial problem: My marketing, creative, and analytics work needs to be organized in one place for job applications.\nTarget audience: Recruiters, hiring managers, and professional contacts.\nResearch questions and objectives: Decide which experiences to feature, how to organize the projects, and how to keep the tone and design consistent.\nExpected impact: Make my background easier to understand and give visitors one place to review my work.\nMethods: Content review, audience definition, basic SEO, and testing on different screen sizes.\n\n\n\nSirius Travel Content Strategy\n\nData and source: Public Sirius Travel website and social media content, plus examples of promotional materials I created.\nManagerial problem: It can be difficult to explain both the trip and the astronomical event clearly to prospective travelers.\nTarget audience: Prospective travelers interested in astronomy, eclipse travel, and educational group experiences.\nResearch questions and objectives: Review content themes, message consistency, and how calls to action guide visitors toward more information.\nExpected impact: Create a clearer and more consistent approach for presenting specialized tours.\nMethods: Content review, audience segmentation, brand and message review, channel planning, and review of public engagement measures."
+  },
+  {
+    "objectID": "submission_2.html#marketing-analytics-project-proposals",
+    "href": "submission_2.html#marketing-analytics-project-proposals",
+    "title": "Portfolio Website Project Proposal",
+    "section": "Marketing analytics project proposals",
+    "text": "Marketing analytics project proposals\n\nCollins College CEP\n\nData and source: I plan to use de-identified Collins College data.\nManagerial problem: Collins College needs a clearer view of student engagement patterns and how they may relate to enrollment and retention.\nTarget audience: Collins College administrators and the CEP team.\nResearch questions and objectives: Define the available engagement, enrollment, and retention measures and compare patterns over time or across available student groups.\nExpected impact: Give Collins College a clearer summary of engagement patterns and identify questions for additional study.\nMethods: Data cleaning, descriptive statistics, trend analysis, group comparisons, and data visualization.\n\n\n\nPortfolio Website Traffic Analysis\n\nData and source: Google Analytics 4 and Google Search Console data from this portfolio, with Search Console linked to GA4, GA4 data sent to BigQuery, and results summarized in Looker Studio.\nManagerial problem: I need to understand how visitors find and use the portfolio before I can improve it.\nTarget audience: Me as the site owner, along with prospective employers reviewing my analytics work.\nResearch questions and objectives: Compare traffic channels, page engagement, navigation paths, and possible areas for improvement.\nExpected impact: Improve the portfolio’s content, navigation, and search visibility.\nMethods: Traffic, page, device, trend, and conversion-event comparisons using BigQuery, Looker Studio, and Quarto.\n\n\n\nSirius Travel Revealjs Presentation\n\nData and source: Public Sirius Travel content and Google Trends search-interest data related to eclipses and astronomical tourism.\nManagerial problem: The project will examine how public interest and engagement patterns can support decisions about what to post and when.\nTarget audience: Sirius Travel team members who plan content and promote tours.\nResearch questions and objectives: Compare search interest, public content themes, visible interaction, and posting timing.\nExpected impact: Help the team plan content around periods of higher public interest.\nMethods: Descriptive statistics, content comparisons, time-series visualization, and comparison of posting timing with search interest.\n\nThese are proposals, so I have not included results that have not been collected yet."
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "",
+    "text": "Portfolio Website Traffic and Engagement Analysis"
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html#project-title",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html#project-title",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "",
+    "text": "Portfolio Website Traffic and Engagement Analysis"
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html#data-and-source",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html#data-and-source",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "Data and source",
+    "text": "Data and source\nThe project will use traffic and engagement data from Google Analytics 4 and Google Search Console. I plan to have Search Console index the site, connect it to GA4, send GA4 data to BigQuery, and summarize the results in Looker Studio."
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html#managerial-problem",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html#managerial-problem",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "Managerial problem",
+    "text": "Managerial problem\nI need to understand how visitors find the portfolio, which pages they view, and where they stop engaging before I can improve the site."
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html#target-audience",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html#target-audience",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "Target audience",
+    "text": "Target audience\nI am the main audience for the report. The finished project can also show prospective employers how I measure and report website performance."
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html#research-questions-and-objectives",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html#research-questions-and-objectives",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "Research questions and objectives",
+    "text": "Research questions and objectives\n\nWhich channels bring visitors to the portfolio?\nWhich pages receive the most traffic and engagement?\nHow do visitors move between the home, project, and résumé pages?\nWhich content or navigation changes may improve engagement?"
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html#expected-impact",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html#expected-impact",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "Expected impact",
+    "text": "Expected impact\nThe analysis should help me improve the portfolio’s content, navigation, and search visibility."
+  },
+  {
+    "objectID": "projects/marketing-analytics/website-traffic-analytics.html#planned-methods",
+    "href": "projects/marketing-analytics/website-traffic-analytics.html#planned-methods",
+    "title": "Portfolio Website Traffic Analysis",
+    "section": "Planned methods",
+    "text": "Planned methods\nI plan to compare traffic sources, pages, devices, trends, and conversion events. I will use BigQuery for queries, Looker Studio for the dashboard, and Quarto for the final report after enough data have been collected."
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "",
+    "text": "Personal Portfolio Brand and Content Strategy"
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html#project-title",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html#project-title",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "",
+    "text": "Personal Portfolio Brand and Content Strategy"
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html#data-and-source",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html#data-and-source",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "Data and source",
+    "text": "Data and source\nThe project uses my résumé, coursework, portfolio content, and the requirements for this Quarto website."
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html#managerial-problem",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html#managerial-problem",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "Managerial problem",
+    "text": "Managerial problem\nMy marketing, creative work, and graduate analytics coursework are spread across different roles and assignments. I need one place to organize them for job applications."
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html#target-audience",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html#target-audience",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "Target audience",
+    "text": "Target audience\nRecruiters, hiring managers, and professional contacts looking for an early-career digital marketing or marketing analytics candidate."
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html#research-questions-and-objectives",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html#research-questions-and-objectives",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "Research questions and objectives",
+    "text": "Research questions and objectives\n\nWhich experiences best communicate my current strengths?\nHow should projects be organized so visitors can find relevant work quickly?\nHow can the website maintain a consistent tone and visual identity?"
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html#expected-impact",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html#expected-impact",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "Expected impact",
+    "text": "Expected impact\nThe portfolio should make my background easier to understand and give visitors one place to review my résumé and projects."
+  },
+  {
+    "objectID": "projects/digital-marketing/portfolio-brand-strategy.html#planned-methods",
+    "href": "projects/digital-marketing/portfolio-brand-strategy.html#planned-methods",
+    "title": "Personal Portfolio Brand Strategy",
+    "section": "Planned methods",
+    "text": "Planned methods\nContent review, audience definition, deciding how to present my background, basic SEO, and testing the website on different screen sizes."
   },
   {
     "objectID": "projects/dashboard-design-notes.html",
@@ -39,7 +165,7 @@
     "href": "projects/dashboard-design-notes.html#planned-content",
     "title": "CEP Dashboard Plan",
     "section": "Planned content",
-    "text": "Planned content\n\nA small number of clearly defined summary measures\nA trend chart for changes over time\nApproved group comparisons\nNotes explaining limitations and definitions\n\nThe final design will only include validated data and will separate observed relationships from causal conclusions."
+    "text": "Planned content\n\nA small number of clearly defined summary measures\nA trend chart for changes over time\nRelevant group comparisons\nNotes explaining limitations and definitions\n\nThe final design will use validated data and will avoid treating associations as proof of causation."
   },
   {
     "objectID": "listings.html",
@@ -63,39 +189,193 @@
     "text": "How this page works\nlisting:\n  contents: \"projects/*.qmd\"\n  type: grid\n  sort: \"date desc\"\n  filter-ui: true\n  categories: true\nThe cards below are generated from the three files in the projects folder."
   },
   {
+    "objectID": "presentation.html#project-overview",
+    "href": "presentation.html#project-overview",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Project overview",
+    "text": "Project overview\nProject title: Using Public Data to Guide Sirius Travel Content\nProject type: Marketing analytics and data visualization project\nStatus: This is a proposal, so I am not reporting results yet.\n\n\n\nWhy I chose it\n\n\nThis topic connects Sirius Travel’s public content with data I can collect and analyze in R."
+  },
+  {
+    "objectID": "presentation.html#data-and-source",
+    "href": "presentation.html#data-and-source",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Data and source",
+    "text": "Data and source\nI plan to use two public data sources:\n\nPublicly visible content from the Sirius Travel website and company social media\nGoogle Trends search-interest data for terms related to eclipses and astronomical tourism"
+  },
+  {
+    "objectID": "presentation.html#public-content-dataset",
+    "href": "presentation.html#public-content-dataset",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Public content dataset",
+    "text": "Public content dataset\nI will organize a recent sample of public posts into a small dataset with:\n\nPublication date and platform\nContent theme, such as eclipse, destination, education, or tour information\nFormat, such as image, video, link, or text\nCall to action\nVisible reactions, comments, or shares when available"
+  },
+  {
+    "objectID": "presentation.html#google-trends-dataset",
+    "href": "presentation.html#google-trends-dataset",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Google Trends dataset",
+    "text": "Google Trends dataset\nI will download weekly Google Trends data for a location and time period that match the public content sample.\nProposed search terms include:\n\nTotal solar eclipse\nEclipse tour\nAstronomy travel"
+  },
+  {
+    "objectID": "presentation.html#managerial-problem",
+    "href": "presentation.html#managerial-problem",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Managerial problem",
+    "text": "Managerial problem\nSirius Travel offers specialized, science-focused tours. The project will look at how the company can explain the value of its trips, reach people when interest is higher, and stay consistent across channels."
+  },
+  {
+    "objectID": "presentation.html#target-audience",
+    "href": "presentation.html#target-audience",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Target audience",
+    "text": "Target audience\nThis project is mainly for the Sirius Travel team members who plan content and promote tours."
+  },
+  {
+    "objectID": "presentation.html#research-questions-and-objectives",
+    "href": "presentation.html#research-questions-and-objectives",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Research questions and objectives",
+    "text": "Research questions and objectives\n\nHow does public search interest in eclipses and astronomical travel change over time?\nWhich public content themes and formats receive the most visible interaction?\nHow closely does the timing of Sirius Travel content align with periods of higher search interest?\nWhat content mix and timing should be considered for future tour promotion?"
+  },
+  {
+    "objectID": "presentation.html#data-preparation",
+    "href": "presentation.html#data-preparation",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Data preparation",
+    "text": "Data preparation\nI will:\n\nCollect only public posts and search-interest data.\nStandardize dates, platforms, themes, formats, and calls to action.\nRecord visible interactions consistently and mark missing values.\nCheck for duplicate posts and differences between platforms.\nKeep the cleaned data and analysis reproducible in R."
+  },
+  {
+    "objectID": "presentation.html#planned-analysis",
+    "href": "presentation.html#planned-analysis",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Planned analysis",
+    "text": "Planned analysis\nI plan to use:\n\nDescriptive statistics for posting frequency and visible interactions\nComparisons by content theme and format\nA time-series chart of Google Trends search interest\nA comparison of post timing with periods of higher search interest\nA clear explanation that the results show patterns, not proof of cause and effect"
+  },
+  {
+    "objectID": "presentation.html#planned-visualizations",
+    "href": "presentation.html#planned-visualizations",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Planned visualizations",
+    "text": "Planned visualizations\n\nLine chart of search interest over time\nBar chart comparing public interaction across content themes\nChart of posting frequency by theme or platform\nSummary table connecting findings to content recommendations"
+  },
+  {
+    "objectID": "presentation.html#expected-impact",
+    "href": "presentation.html#expected-impact",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Expected impact",
+    "text": "Expected impact\nThe goal is to give Sirius Travel a clearer basis for deciding what to post and when to post it. The results could help the team plan content around periods of higher search interest."
+  },
+  {
+    "objectID": "presentation.html#limitations-and-privacy",
+    "href": "presentation.html#limitations-and-privacy",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Limitations and privacy",
+    "text": "Limitations and privacy\n\nPublic interactions do not measure bookings or revenue.\nPlatform metrics may not be directly comparable.\nA small sample will limit the conclusions I can make.\n\n\n\n\nPublic data only\n\n\nI will not use customer records, booking data, private analytics, or other nonpublic information."
+  },
+  {
+    "objectID": "presentation.html#final-deliverable",
+    "href": "presentation.html#final-deliverable",
+    "title": "Using Public Data to Guide Sirius Travel Content",
+    "section": "Final deliverable",
+    "text": "Final deliverable\nAfter I collect and analyze the data, the final presentation will show the cleaning process, charts, findings, limitations, and content recommendations."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nMaster of Science in Digital Marketing · In progress\nBachelor of Science in Marketing Management · Completed 2026\nCalifornia State Polytechnic University, Pomona"
+  },
+  {
+    "objectID": "resume.html#marketing-and-creative-skills",
+    "href": "resume.html#marketing-and-creative-skills",
+    "title": "Resume",
+    "section": "Marketing and creative skills",
+    "text": "Marketing and creative skills\n\nAdobe Illustrator, InDesign, Photoshop, and Lightroom\nFigma and Canva\nSearch engine marketing and search engine optimization\nWordPress and website support\nMicrosoft Office Suite\nMarketing communications"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\n\nMarketing and Media Coordinator and Tour Designer\nSirius Travel · Boulder, Colorado · 2023–Present\n\nManage social media and digital marketing for international astronomical and eclipse tours.\nLead groups of travelers during eclipse tours and help create an educational experience.\nCreate personalized travel itineraries based on astronomical events and client preferences.\nDesign digital promotional materials and physical merchandise.\n\n\n\nRemote Digital Marketing Intern\nKayla Sloan LLC · Lincoln, Nebraska · 2025–Present\n\nSupport organic and paid social media campaign planning, audience targeting, and performance review.\nAssist with Google Ads, keyword strategy, and on-page SEO.\nHelp prepare email campaigns, audience segments, and performance reporting.\nAssist with landing pages, website updates, and conversion tracking.\n\n\n\nAssistant Plumber\nD&D Plumbing · Arvada, Colorado · May 2024–August 2024\n\nAssisted with residential and commercial plumbing repairs and installations.\nWorked directly with clients while supporting timely completion of service calls.\n\n\n\nHomeless Help Club Founder and Member\nFairview High School · Boulder, Colorado · 2020–2023\n\nFounded a club that organized food and donation drives.\nWorked with local organizations to support community outreach."
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Resume",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish: Native\nSpanish: Literate"
+  },
+  {
+    "objectID": "digital-marketing.html",
+    "href": "digital-marketing.html",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "These are projects I have worked on or plan to develop further. Since they are still proposals, I have not added results yet."
+  },
+  {
+    "objectID": "digital-marketing.html#project-proposals",
+    "href": "digital-marketing.html#project-proposals",
+    "title": "Digital Marketing Projects",
+    "section": "Project proposals",
+    "text": "Project proposals"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nikolas Sahami",
     "section": "",
-    "text": "MSDM PORTFOLIO\n\n\n\n\n\nI am an MSDM student at Cal Poly Pomona. My culminating experience project focuses on student engagement at Collins College and how engagement may relate to enrollment and retention.\nView my CEP dashboard View portfolio items"
+    "text": "MSDM PORTFOLIO\n\n\n\n\n\nI recently completed my B.S. in Marketing Management and am pursuing an M.S. in Digital Marketing at Cal Poly Pomona. My work combines marketing, creative design, and a growing foundation in data analysis.\nView digital marketing projects View analytics projects"
   },
   {
-    "objectID": "index.html#data-digital-marketing-and-student-success.",
-    "href": "index.html#data-digital-marketing-and-student-success.",
+    "objectID": "index.html#digital-marketing-analytics-and-creative-strategy.",
+    "href": "index.html#digital-marketing-analytics-and-creative-strategy.",
     "title": "Nikolas Sahami",
     "section": "",
-    "text": "I am an MSDM student at Cal Poly Pomona. My culminating experience project focuses on student engagement at Collins College and how engagement may relate to enrollment and retention.\nView my CEP dashboard View portfolio items"
+    "text": "I recently completed my B.S. in Marketing Management and am pursuing an M.S. in Digital Marketing at Cal Poly Pomona. My work combines marketing, creative design, and a growing foundation in data analysis.\nView digital marketing projects View analytics projects"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Nikolas Sahami",
     "section": "About me",
-    "text": "About me\nI enjoy using data to answer practical questions and explain results clearly. After graduate school, I want to work in a role where I can combine marketing and my creative personality to help an organization make better decisions and better develop a brand and identity."
+    "text": "About me\nI enjoy combining marketing and my creative personality to help organizations communicate clearly, make better decisions, and develop a stronger brand identity. As I continue graduate school, I am building my skills in marketing analytics and reproducible reporting."
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Nikolas Sahami",
     "section": "Skills",
-    "text": "Skills\n\n\nData analysis\nOrganizing data and using it to answer business questions.\n\n\nData visualization\nTurning results into clear charts and dashboards.\n\n\nDigital marketing\nConnecting customer behavior, strategy, and measurement.\n\n\nRStudio & Quarto\nCreating reproducible reports, dashboards, and websites."
+    "text": "Skills\n\n\nData analysis\nOrganizing data and using it to answer practical marketing questions.\n\n\nData visualization\nTurning results into clear charts and dashboards.\n\n\nDigital marketing\nContent planning, SEO and SEM, email marketing, and website support.\n\n\nCreative tools\nAdobe Illustrator, InDesign, Photoshop, Lightroom, Figma, and Canva."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Nikolas Sahami",
     "section": "Education",
-    "text": "Education\n\n\nMSDM\n\n\nMaster of Science in Digital Marketing\nCal Poly Pomona · 2026–2027\nCurrent project: Collins College student engagement and enrollment-retention."
+    "text": "Education\n\n\nCPP\n\n\nMarketing education\nM.S. Digital Marketing · In progress B.S. Marketing Management · Completed 2026 California State Polytechnic University, Pomona\nCurrent graduate project: Collins College student engagement, enrollment, and retention."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics Projects",
+    "section": "",
+    "text": "These are my current marketing analytics proposals. Each page explains the question, data, audience, expected impact, and methods I plan to use."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-proposals",
+    "href": "marketing-analytics.html#project-proposals",
+    "title": "Marketing Analytics Projects",
+    "section": "Project proposals",
+    "text": "Project proposals"
   },
   {
     "objectID": "styling.html",
@@ -130,21 +410,56 @@
     "href": "projects/cep-research-brief.html",
     "title": "CEP Project Overview",
     "section": "",
-    "text": "My culminating experience project focuses on student engagement at Collins College and how it may relate to enrollment and retention."
+    "text": "Collins College Student Engagement, Enrollment, and Retention Analysis"
   },
   {
-    "objectID": "projects/cep-research-brief.html#purpose",
-    "href": "projects/cep-research-brief.html#purpose",
+    "objectID": "projects/cep-research-brief.html#project-title",
+    "href": "projects/cep-research-brief.html#project-title",
     "title": "CEP Project Overview",
     "section": "",
-    "text": "My culminating experience project focuses on student engagement at Collins College and how it may relate to enrollment and retention."
+    "text": "Collins College Student Engagement, Enrollment, and Retention Analysis"
   },
   {
-    "objectID": "projects/cep-research-brief.html#main-questions",
-    "href": "projects/cep-research-brief.html#main-questions",
+    "objectID": "projects/cep-research-brief.html#data-and-source",
+    "href": "projects/cep-research-brief.html#data-and-source",
     "title": "CEP Project Overview",
-    "section": "Main questions",
-    "text": "Main questions\n\nWhat engagement information is available?\nHow should enrollment and retention be defined?\nWhat patterns would be useful to Collins College stakeholders?\n\nThe project is still in the planning and data-preparation stage, so this portfolio does not report final results."
+    "section": "Data and source",
+    "text": "Data and source\nI plan to use de-identified Collins College data. I will not post student-level data or results that should not be public."
+  },
+  {
+    "objectID": "projects/cep-research-brief.html#managerial-problem",
+    "href": "projects/cep-research-brief.html#managerial-problem",
+    "title": "CEP Project Overview",
+    "section": "Managerial problem",
+    "text": "Managerial problem\nCollins College needs a clearer view of student engagement patterns and how they may relate to enrollment and retention."
+  },
+  {
+    "objectID": "projects/cep-research-brief.html#target-audience",
+    "href": "projects/cep-research-brief.html#target-audience",
+    "title": "CEP Project Overview",
+    "section": "Target audience",
+    "text": "Target audience\nCollins College administrators and the CEP team."
+  },
+  {
+    "objectID": "projects/cep-research-brief.html#research-questions",
+    "href": "projects/cep-research-brief.html#research-questions",
+    "title": "CEP Project Overview",
+    "section": "Research questions",
+    "text": "Research questions\n\nWhat engagement information is available?\nHow should enrollment and retention be defined?\nHow do engagement patterns vary over time or across the student groups available for the project?\nWhich patterns would be useful for future student-support decisions?"
+  },
+  {
+    "objectID": "projects/cep-research-brief.html#expected-impact",
+    "href": "projects/cep-research-brief.html#expected-impact",
+    "title": "CEP Project Overview",
+    "section": "Expected impact",
+    "text": "Expected impact\nI expect the project to give Collins College a clearer summary of engagement patterns and identify questions for additional study."
+  },
+  {
+    "objectID": "projects/cep-research-brief.html#planned-methods",
+    "href": "projects/cep-research-brief.html#planned-methods",
+    "title": "CEP Project Overview",
+    "section": "Planned methods",
+    "text": "Planned methods\nData cleaning, descriptive statistics, trend analysis, group comparisons, and clear data visualizations. Any final report will describe patterns carefully and will not treat an association as proof of causation.\nView the CEP dashboard plan"
   },
   {
     "objectID": "projects/publishing-checklist.html",
@@ -173,5 +488,82 @@
     "title": "Website Design Notes",
     "section": "Publishing",
     "text": "Publishing\nQuarto renders the website to the docs folder. The source and rendered files are stored on GitHub, and GitHub Pages serves the website from the main branch’s /docs folder."
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html",
+    "title": "Sirius Travel Content Strategy",
+    "section": "",
+    "text": "Sirius Travel Digital Content and Promotional Strategy"
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html#project-title",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html#project-title",
+    "title": "Sirius Travel Content Strategy",
+    "section": "",
+    "text": "Sirius Travel Digital Content and Promotional Strategy"
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html#data-and-source",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html#data-and-source",
+    "title": "Sirius Travel Content Strategy",
+    "section": "Data and source",
+    "text": "Data and source\nThe project will use publicly available Sirius Travel website and social media content, along with examples of promotional materials I created."
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html#managerial-problem",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html#managerial-problem",
+    "title": "Sirius Travel Content Strategy",
+    "section": "Managerial problem",
+    "text": "Managerial problem\nIt can be difficult to explain both the trip and the astronomical event clearly to prospective travelers."
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html#target-audience",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html#target-audience",
+    "title": "Sirius Travel Content Strategy",
+    "section": "Target audience",
+    "text": "Target audience\nProspective travelers interested in astronomy, eclipse travel, and educational group experiences."
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html#research-questions-and-objectives",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html#research-questions-and-objectives",
+    "title": "Sirius Travel Content Strategy",
+    "section": "Research questions and objectives",
+    "text": "Research questions and objectives\n\nWhich content themes explain the tour experience most clearly?\nHow can messaging remain consistent across social media and promotional materials?\nHow are calls to action used to guide interested visitors toward more information?"
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html#expected-impact",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html#expected-impact",
+    "title": "Sirius Travel Content Strategy",
+    "section": "Expected impact",
+    "text": "Expected impact\nI expect the project to create a clearer and more consistent approach for presenting specialized tours."
+  },
+  {
+    "objectID": "projects/digital-marketing/sirius-travel-content-strategy.html#planned-methods",
+    "href": "projects/digital-marketing/sirius-travel-content-strategy.html#planned-methods",
+    "title": "Sirius Travel Content Strategy",
+    "section": "Planned methods",
+    "text": "Planned methods\nContent review, audience segmentation, brand and message review, channel planning, and a review of public engagement measures.\nThe related Revealjs analytics proposal explains how public content and Google Trends data can be used to support future content decisions."
+  },
+  {
+    "objectID": "submission.html",
+    "href": "submission.html",
+    "title": "M10 Quarto Portfolio Submission",
+    "section": "",
+    "text": "Student: Nikolas Sahami"
+  },
+  {
+    "objectID": "submission.html#submission-links",
+    "href": "submission.html#submission-links",
+    "title": "M10 Quarto Portfolio Submission",
+    "section": "Submission links",
+    "text": "Submission links\n\nPublished Quarto portfolio\nGitHub repository"
+  },
+  {
+    "objectID": "submission.html#website-contents",
+    "href": "submission.html#website-contents",
+    "title": "M10 Quarto Portfolio Submission",
+    "section": "Website contents",
+    "text": "Website contents\nThe website includes the four required pages:\n\nHome page with my bio, photo, career interests, skills, and education\nQuarto dashboard portal for my MSDM culminating experience project\nCSS/SCSS explanation and demonstration\nQuarto listings explanation and portfolio showcase"
   }
 ]

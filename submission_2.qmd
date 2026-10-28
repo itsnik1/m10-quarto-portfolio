@@ -1,0 +1,78 @@
+---
+title: "Portfolio Website Project Proposal"
+date: today
+format:
+  html:
+    theme: [flatly, theme.scss]
+    css: styles.css
+    toc: true
+    embed-resources: true
+    link-external-newwindow: true
+---
+
+**Student:** {{< var profile_name >}}
+
+## Submission links
+
+- [Published Quarto portfolio]({{< var site_url >}})
+- [GitHub repository]({{< var repo_url >}})
+
+## Website contents
+
+The portfolio includes the required content:
+
+1. **Home:** introduction, personal statement, skills, education, and career direction
+2. **Digital Marketing Projects:** personal portfolio brand strategy and Sirius Travel content strategy proposals
+3. **Marketing Analytics Projects:** Collins College CEP, portfolio website traffic analysis, and a Revealjs presentation proposal
+4. **Resume:** education, skills, experience, and a downloadable PDF
+
+## Digital marketing project proposals
+
+### [Personal Portfolio Brand Strategy](projects/digital-marketing/portfolio-brand-strategy.qmd)
+
+- **Data and source:** My resume, coursework, portfolio content, and the requirements for this website.
+- **Managerial problem:** My marketing, creative, and analytics work needs to be organized in one place for job applications.
+- **Target audience:** Recruiters, hiring managers, and professional contacts.
+- **Research questions and objectives:** Decide which experiences to feature, how to organize the projects, and how to keep the tone and design consistent.
+- **Expected impact:** Make my background easier to understand and give visitors one place to review my work.
+- **Methods:** Content review, audience definition, basic SEO, and testing on different screen sizes.
+
+### [Sirius Travel Content Strategy](projects/digital-marketing/sirius-travel-content-strategy.qmd)
+
+- **Data and source:** Public Sirius Travel website and social media content, plus examples of promotional materials I created.
+- **Managerial problem:** It can be difficult to explain both the trip and the astronomical event clearly to prospective travelers.
+- **Target audience:** Prospective travelers interested in astronomy, eclipse travel, and educational group experiences.
+- **Research questions and objectives:** Review content themes, message consistency, and how calls to action guide visitors toward more information.
+- **Expected impact:** Create a clearer and more consistent approach for presenting specialized tours.
+- **Methods:** Content review, audience segmentation, brand and message review, channel planning, and review of public engagement measures.
+
+## Marketing analytics project proposals
+
+### [Collins College CEP](projects/cep-research-brief.qmd)
+
+- **Data and source:** I plan to use de-identified Collins College data.
+- **Managerial problem:** Collins College needs a clearer view of student engagement patterns and how they may relate to enrollment and retention.
+- **Target audience:** Collins College administrators and the CEP team.
+- **Research questions and objectives:** Define the available engagement, enrollment, and retention measures and compare patterns over time or across available student groups.
+- **Expected impact:** Give Collins College a clearer summary of engagement patterns and identify questions for additional study.
+- **Methods:** Data cleaning, descriptive statistics, trend analysis, group comparisons, and data visualization.
+
+### [Portfolio Website Traffic Analysis](projects/marketing-analytics/website-traffic-analytics.qmd)
+
+- **Data and source:** Google Analytics 4 and Google Search Console data from this portfolio, with Search Console linked to GA4, GA4 data sent to BigQuery, and results summarized in Looker Studio.
+- **Managerial problem:** I need to understand how visitors find and use the portfolio before I can improve it.
+- **Target audience:** Me as the site owner, along with prospective employers reviewing my analytics work.
+- **Research questions and objectives:** Compare traffic channels, page engagement, navigation paths, and possible areas for improvement.
+- **Expected impact:** Improve the portfolio's content, navigation, and search visibility.
+- **Methods:** Traffic, page, device, trend, and conversion-event comparisons using BigQuery, Looker Studio, and Quarto.
+
+### [Sirius Travel Revealjs Presentation](presentation.qmd)
+
+- **Data and source:** Public Sirius Travel content and Google Trends search-interest data related to eclipses and astronomical tourism.
+- **Managerial problem:** The project will examine how public interest and engagement patterns can support decisions about what to post and when.
+- **Target audience:** Sirius Travel team members who plan content and promote tours.
+- **Research questions and objectives:** Compare search interest, public content themes, visible interaction, and posting timing.
+- **Expected impact:** Help the team plan content around periods of higher public interest.
+- **Methods:** Descriptive statistics, content comparisons, time-series visualization, and comparison of posting timing with search interest.
+
+These are proposals, so I have not included results that have not been collected yet.

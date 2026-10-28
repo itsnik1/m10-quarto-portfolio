@@ -3,27 +3,34 @@ project:
   output-dir: docs
   render:
     - index.qmd
+    - digital-marketing.qmd
+    - marketing-analytics.qmd
+    - resume.qmd
     - dashboard.qmd
+    - presentation.qmd
     - styling.qmd
     - listings.qmd
     - projects/*.qmd
+    - projects/digital-marketing/*.qmd
+    - projects/marketing-analytics/*.qmd
     - submission.qmd
+    - submission_2.qmd
 
 website:
   title: "Nikolas Sahami | MSDM Portfolio"
-  description: "M10 Quarto portfolio and MSDM culminating experience project."
+  description: "Digital marketing and marketing analytics portfolio for Nikolas Sahami."
   search: true
   navbar:
     pinned: true
     left:
       - text: "Home"
         href: index.qmd
-      - text: "CEP Dashboard"
-        href: dashboard.qmd
-      - text: "CSS & SCSS"
-        href: styling.qmd
-      - text: "Listings"
-        href: listings.qmd
+      - text: "Digital Marketing"
+        href: digital-marketing.qmd
+      - text: "Marketing Analytics"
+        href: marketing-analytics.qmd
+      - text: "Resume"
+        href: resume.qmd
   page-footer:
     left: "Nikolas Sahami · MSDM"
     right: "Built with Quarto"

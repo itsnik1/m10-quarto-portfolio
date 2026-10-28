@@ -1,0 +1,38 @@
+---
+title: "Portfolio Website Traffic Analysis"
+description: "A planned analysis of how visitors find and use this portfolio using GA4, Search Console, BigQuery, and Looker Studio."
+date: 2026-10-27
+categories: [GA4, BigQuery, Looker Studio, Website Analytics]
+toc: true
+---
+
+## Project title
+
+Portfolio Website Traffic and Engagement Analysis
+
+## Data and source
+
+The project will use traffic and engagement data from Google Analytics 4 and Google Search Console. I plan to have Search Console index the site, connect it to GA4, send GA4 data to BigQuery, and summarize the results in Looker Studio.
+
+## Managerial problem
+
+I need to understand how visitors find the portfolio, which pages they view, and where they stop engaging before I can improve the site.
+
+## Target audience
+
+I am the main audience for the report. The finished project can also show prospective employers how I measure and report website performance.
+
+## Research questions and objectives
+
+- Which channels bring visitors to the portfolio?
+- Which pages receive the most traffic and engagement?
+- How do visitors move between the home, project, and résumé pages?
+- Which content or navigation changes may improve engagement?
+
+## Expected impact
+
+The analysis should help me improve the portfolio's content, navigation, and search visibility.
+
+## Planned methods
+
+I plan to compare traffic sources, pages, devices, trends, and conversion events. I will use BigQuery for queries, Looker Studio for the dashboard, and Quarto for the final report after enough data have been collected.

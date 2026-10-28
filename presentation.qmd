@@ -1,0 +1,118 @@
+---
+title: "Using Public Data to Guide Sirius Travel Content"
+subtitle: "A marketing analytics proposal using public data"
+description: "A proposal to analyze public content and search interest for astronomical tourism."
+date: 2026-10-27
+categories: [Revealjs, Data Visualization, Marketing Analytics]
+format:
+  revealjs:
+    theme: [simple, presentation.scss]
+    slide-number: true
+    progress: true
+    transition: none
+    title-slide-attributes:
+      data-background-color: "#102a43"
+---
+
+## Project overview
+
+**Project title:** Using Public Data to Guide Sirius Travel Content
+
+**Project type:** Marketing analytics and data visualization project
+
+**Status:** This is a proposal, so I am not reporting results yet.
+
+::: {.callout-note appearance="simple" icon=false}
+## Why I chose it
+
+This topic connects Sirius Travel's public content with data I can collect and analyze in R.
+:::
+
+## Data and source
+
+I plan to use two public data sources:
+
+- Publicly visible content from the [Sirius Travel website](https://siriustravel.com/) and company social media
+- Google Trends search-interest data for terms related to eclipses and astronomical tourism
+
+## Public content dataset
+
+I will organize a recent sample of public posts into a small dataset with:
+
+- Publication date and platform
+- Content theme, such as eclipse, destination, education, or tour information
+- Format, such as image, video, link, or text
+- Call to action
+- Visible reactions, comments, or shares when available
+
+## Google Trends dataset
+
+I will download weekly Google Trends data for a location and time period that match the public content sample.
+
+Proposed search terms include:
+
+- Total solar eclipse
+- Eclipse tour
+- Astronomy travel
+
+## Managerial problem
+
+Sirius Travel offers specialized, science-focused tours. The project will look at how the company can explain the value of its trips, reach people when interest is higher, and stay consistent across channels.
+
+## Target audience
+
+This project is mainly for the Sirius Travel team members who plan content and promote tours.
+
+## Research questions and objectives
+
+- How does public search interest in eclipses and astronomical travel change over time?
+- Which public content themes and formats receive the most visible interaction?
+- How closely does the timing of Sirius Travel content align with periods of higher search interest?
+- What content mix and timing should be considered for future tour promotion?
+
+## Data preparation {.smaller}
+
+I will:
+
+1. Collect only public posts and search-interest data.
+2. Standardize dates, platforms, themes, formats, and calls to action.
+3. Record visible interactions consistently and mark missing values.
+4. Check for duplicate posts and differences between platforms.
+5. Keep the cleaned data and analysis reproducible in R.
+
+## Planned analysis {.smaller}
+
+I plan to use:
+
+- Descriptive statistics for posting frequency and visible interactions
+- Comparisons by content theme and format
+- A time-series chart of Google Trends search interest
+- A comparison of post timing with periods of higher search interest
+- A clear explanation that the results show patterns, not proof of cause and effect
+
+## Planned visualizations
+
+- Line chart of search interest over time
+- Bar chart comparing public interaction across content themes
+- Chart of posting frequency by theme or platform
+- Summary table connecting findings to content recommendations
+
+## Expected impact
+
+The goal is to give Sirius Travel a clearer basis for deciding what to post and when to post it. The results could help the team plan content around periods of higher search interest.
+
+## Limitations and privacy
+
+- Public interactions do not measure bookings or revenue.
+- Platform metrics may not be directly comparable.
+- A small sample will limit the conclusions I can make.
+
+::: {.callout-important appearance="simple" icon=false}
+## Public data only
+
+I will not use customer records, booking data, private analytics, or other nonpublic information.
+:::
+
+## Final deliverable
+
+After I collect and analyze the data, the final presentation will show the cleaning process, charts, findings, limitations, and content recommendations.

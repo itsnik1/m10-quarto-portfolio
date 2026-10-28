@@ -10,11 +10,11 @@ toc: false
 
 # {{< var profile_name >}}
 
-## Data, digital marketing, and student success.
+## Digital marketing, analytics, and creative strategy.
 
-I am an MSDM student at Cal Poly Pomona. My culminating experience project focuses on student engagement at Collins College and how engagement may relate to enrollment and retention.
+I recently completed my B.S. in Marketing Management and am pursuing an M.S. in Digital Marketing at Cal Poly Pomona. My work combines marketing, creative design, and a growing foundation in data analysis.
 
-[View my CEP dashboard](dashboard.qmd){.btn .btn-primary} [View portfolio items](listings.qmd){.btn .btn-outline-secondary}
+[View digital marketing projects](digital-marketing.qmd){.btn .btn-primary} [View analytics projects](marketing-analytics.qmd){.btn .btn-outline-secondary}
 :::
 
 ::: {.hero-portrait}
@@ -24,7 +24,7 @@ I am an MSDM student at Cal Poly Pomona. My culminating experience project focus
 
 ## About me
 
-I enjoy using data to answer practical questions and explain results clearly. After graduate school, I want to work in a role where I can combine marketing and my creative personality to help an organization make better decisions and better develop a brand and identity.
+I enjoy combining marketing and my creative personality to help organizations communicate clearly, make better decisions, and develop a stronger brand identity. As I continue graduate school, I am building my skills in marketing analytics and reproducible reporting.
 
 ## Skills
 
@@ -32,7 +32,7 @@ I enjoy using data to answer practical questions and explain results clearly. Af
 ::: {.skill-card}
 ### Data analysis
 
-Organizing data and using it to answer business questions.
+Organizing data and using it to answer practical marketing questions.
 :::
 
 ::: {.skill-card}
@@ -44,13 +44,13 @@ Turning results into clear charts and dashboards.
 ::: {.skill-card}
 ### Digital marketing
 
-Connecting customer behavior, strategy, and measurement.
+Content planning, SEO and SEM, email marketing, and website support.
 :::
 
 ::: {.skill-card}
-### RStudio & Quarto
+### Creative tools
 
-Creating reproducible reports, dashboards, and websites.
+Adobe Illustrator, InDesign, Photoshop, Lightroom, Figma, and Canva.
 :::
 :::
 
@@ -58,14 +58,16 @@ Creating reproducible reports, dashboards, and websites.
 
 ::: {.education-card}
 ::: {.education-mark}
-**MSDM**
+**CPP**
 :::
 
 ::: {.education-copy}
-### Master of Science in Digital Marketing
+### Marketing education
 
-Cal Poly Pomona · 2026–2027
+**M.S. Digital Marketing** · In progress<br>
+**B.S. Marketing Management** · Completed 2026<br>
+California State Polytechnic University, Pomona
 
-**Current project:** Collins College student engagement and enrollment-retention.
+**Current graduate project:** Collins College student engagement, enrollment, and retention.
 :::
 :::

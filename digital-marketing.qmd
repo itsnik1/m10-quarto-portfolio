@@ -1,0 +1,16 @@
+---
+title: "Digital Marketing Projects"
+subtitle: "Creative strategy, content, and brand development"
+listing:
+  contents: "projects/digital-marketing/*.qmd"
+  type: default
+  sort: "title"
+  filter-ui: false
+  categories: true
+  fields: [title, description, categories]
+toc: true
+---
+
+These are projects I have worked on or plan to develop further. Since they are still proposals, I have not added results yet.
+
+## Project proposals
